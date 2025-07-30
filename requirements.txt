@@ -1,0 +1,8 @@
+beautifulsoup4  # parsing webpages (HTML documents)
+html5lib              # parsing webpages (HTML documents)  - especially if poorly formatted
+ipykernel    # for Jupyter notebooks
+jupyterlab   # for Jupyter notebooks
+matplotlib           # customizing visualizations
+requests     # make HTTP requests (a very popular Python package)
+spacy                   # for NLP 
+spacytextblob     # for NLP - combines spaCy and TextBlob (simpler interface)
