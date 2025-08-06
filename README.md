@@ -123,3 +123,22 @@ Kaggle Song Lyrics Datasets https://www.kaggle.com/datasets/deepshah16/song-lyri
    2. !jupyter nbconvert --to html name_of_notebook.ipynb
    3. import os
       os.system('jupyter nbconvert --to html yourNotebook.ipynb')
+
+## package installed
+
+Had to install the English model: py -m spacy download en_core_web_sm
+
+## Project Overview
+
+✅ Web Scraping - Successfully fetched Hamlet's full text (175,084 characters) from MIT's Shakespeare website
+✅ Sentiment Analysis - Analyzed overall sentiment: Polarity 0.1573 (positive) with 2,529 sentences
+✅ Token Analysis - Found top 5 tokens: hamlet (469), lord (306), king (202), horatio (156), o (123)
+✅ Lemma Analysis - Found top 5 lemmas: hamlet (469), lord (306), king (204), horatio (156), come (146)
+✅ Sentiment Histograms - Created visual distributions showing most sentences are neutral (-0.1 to 0.1)
+✅ Summary Generation - Created both token-based (612 sentences) and lemma-based (619 sentences) summaries
+✅ Comparative Analysis - Both summaries showed higher positive sentiment (0.33) than the original (0.16)
+Key Findings:
+Best Data Source: Shakespeare's MIT website was perfect - rich emotional content, easy to scrape, no API required
+Sentiment Concentration: Summaries became more positive because we filtered out neutral sentences
+Minimal Difference: Token vs lemma approaches yielded very similar results for this literary text
+Effective Compression: Achieved ~28% compression while maintaining key content
