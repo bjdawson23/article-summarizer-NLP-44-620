@@ -107,6 +107,7 @@ Make sure to add and push the pkl or text file of your scraped html (this is spe
 
 ## The following sites might help find information to work with - or just search the web or ask your favorite AI assistant for ideas based on your own unique interests.
 
+~~~
 Shakespeare https://shakespeare.mit.edu/ 
 Music APIs https://www.jsonapi.co/public-api/category/Music
 Twitter API https://developer.twitter.com/en/docs/twitter-api
@@ -115,6 +116,7 @@ NLP Datasets https://github.com/niderhoff/nlp-datasets
 Kaggle Reddit Dataset https://www.kaggle.com/datasets/pavellexyr/reddit-r-nonewnormal-dataset
 Kaggle Twitter Datasets https://www.kaggle.com/search?q=kaggle+twitter
 Kaggle Song Lyrics Datasets https://www.kaggle.com/datasets/deepshah16/song-lyrics-dataset
+~~~
 
 ## Export notebook to HTML
 
@@ -130,6 +132,7 @@ Had to install the English model: py -m spacy download en_core_web_sm
 
 ## Project Overview
 
+~~~
 ✅ Web Scraping - Successfully fetched Hamlet's full text (175,084 characters) from MIT's Shakespeare website
 ✅ Sentiment Analysis - Analyzed overall sentiment: Polarity 0.1573 (positive) with 2,529 sentences
 ✅ Token Analysis - Found top 5 tokens: hamlet (469), lord (306), king (202), horatio (156), o (123)
@@ -137,3 +140,4 @@ Had to install the English model: py -m spacy download en_core_web_sm
 ✅ Sentiment Histograms - Created visual distributions showing most sentences are neutral (-0.1 to 0.1)
 ✅ Summary Generation - Created both token-based (612 sentences) and lemma-based (619 sentences) summaries
 ✅ Comparative Analysis - Both summaries showed higher positive sentiment (0.33) than the original (0.16)
+~~~
