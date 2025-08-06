@@ -107,14 +107,14 @@ Make sure to add and push the pkl or text file of your scraped html (this is spe
 
 ## The following sites might help find information to work with - or just search the web or ask your favorite AI assistant for ideas based on your own unique interests.
 
-   Shakespeare https://shakespeare.mit.edu/ 
-   Music APIs https://www.jsonapi.co/public-api/category/Music
-   Twitter API https://developer.twitter.com/en/docs/twitter-api
-   Spotify API https://developer.spotify.com/documentation/web-api
-   NLP Datasets https://github.com/niderhoff/nlp-datasets
-   Kaggle Reddit Dataset https://www.kaggle.com/datasets/pavellexyr/reddit-r-nonewnormal-dataset
-   Kaggle Twitter Datasets https://www.kaggle.com/search?q=kaggle+twitter
-   Kaggle Song Lyrics Datasets https://www.kaggle.com/datasets/deepshah16/song-lyrics-dataset
+1. Shakespeare https://shakespeare.mit.edu/ 
+2. Music APIs https://www.jsonapi.co/public-api/category/Music
+3. Twitter API https://developer.twitter.com/en/docs/twitter-api
+4. Spotify API https://developer.spotify.com/documentation/web-api
+5. NLP Datasets https://github.com/niderhoff/nlp-datasets
+6. Kaggle Reddit Dataset https://www.kaggle.com/datasets/pavellexyr/reddit-r-nonewnormal-dataset
+7. Kaggle Twitter Datasets https://www.kaggle.com/search?q=kaggle+twitter
+8. Kaggle Song Lyrics Datasets https://www.kaggle.com/datasets/deepshah16/song-lyrics-dataset
 
 ## Export notebook to HTML
 
